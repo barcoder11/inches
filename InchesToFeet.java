@@ -31,8 +31,3 @@ public class InchesToFeet {
 
     
 }
-/*
- -Reflection:
- - I learned how to use the Scanner class for inputs
- - I learned % gives the remainder inches.
- */
